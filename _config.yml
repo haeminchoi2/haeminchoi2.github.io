@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+locale                   : "ko-KR"
+title                    : "haeminchoi2"
+title_separator          : " | "
+subtitle                 : "haeminchoi2"
 name                     : "haeminchoi2"
-description              : "An amazing website."
+description              : "안녕하세요. 최해민 입니다."
 url                      : "https://haeminchoi2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "haeminchoi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "최해민 입니다."
+  location         : "South Korea"
+  email            : "haeminchoi2@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
